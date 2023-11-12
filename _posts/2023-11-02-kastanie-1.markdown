@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Kastanie 1"
+date:   2023-11-02 14:56:10 +0100
+hero_image: oT_kastanie-1-hero.jpeg
+categories: 
+holz: "Kastanie/castagno/chestnut"
+masse: "152 x 44 x 31 cm"
+date_found: "2006"
+location: "Pura, Malcantone"
+---
+{% include figure.html width="100%" file="oT_kastanie_a_I.jpg" alt="Kastanie 1" caption="" %}
+
+{% include figure.html width="100%" file="oT_kastanie_a_II.jpg" alt="Kastanie 1" caption="" %}
+
+{% include figure.html width="100%" file="oT_kastanie_a_III.jpg" alt="Kastanie 1" caption="" %}
+
+{% include figure.html width="100%" file="oT_kastanie_a_IV.jpg" alt="Kastanie 1" caption="" %}
+
+

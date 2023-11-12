@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "La Gioia"
+date:   2023-11-02 14:56:10 +0100
+hero_image: la_gioia-hero.jpeg
+categories: 
+holz: "Wildkirsche/ciliegio selvatico/wild cherry"
+masse: "182 x 96 x 82 cm"
+date_found: "2008"
+location: "Figino"
+---
+{% include figure.html width="100%" file="la_gioia.jpg" alt="La Gioia" caption="" %}
+
+{% include figure.html width="100%" file="la_gioia_III.jpg" alt="La Gioia" caption="" %}
+
+{% include figure.html width="100%" file="la_gioia_IV.jpg" alt="La Gioia" caption="" %}
+
+{% include figure.html width="100%" file="la_gioia_V.jpg" alt="La Gioia" caption="" %}
+
+{% include figure.html width="100%" file="la_gioia_VI.jpg" alt="La Gioia" caption="" %}
+
+

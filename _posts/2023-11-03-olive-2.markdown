@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Olive 2"
+date:   2023-11-02 14:56:10 +0100
+hero_image: oT_olive_b-hero.jpeg
+categories: 
+holz: "Olive/oliva"
+masse: "51 x 18 x 25 cm"
+date_found: "2007"
+location: "Caslano"
+---
+{% include figure.html width="100%" file="oT_olive_b_I.jpg" alt="Olive 2" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_b_II.jpg" alt="Olive 2" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_b_III.jpg" alt="Olive 2" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_b_IV.jpg" alt="Olive 2" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_b_V.jpg" alt="Olive 2" caption="" %}
+

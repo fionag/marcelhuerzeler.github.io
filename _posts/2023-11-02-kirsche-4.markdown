@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Kirsche 4"
+date:   2022-11-02 14:56:10 +0100
+hero_image: oT_kirsche_d-hero.jpg
+categories: 
+holz: "Kirsche/ciliegio/cherry"
+masse: "100 x 30 x 50 cm"
+date_found: "2007"
+location: "Gentilino"
+---
+{% include figure.html width="50%" file="oT_kirsche_d.jpg" alt="Kirsche 4" caption="" %}

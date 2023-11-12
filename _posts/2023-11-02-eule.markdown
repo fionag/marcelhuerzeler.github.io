@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Eule"
+date:   2023-11-02 14:56:10 +0100
+hero_image: Eule-hero.jpeg
+categories: 
+holz: "Kastanie/castagno/chestnut"
+masse: "70 x 22 x 47 cm"
+date_found: "2006"
+location: "Pura, Malcantone"
+---
+{% include figure.html width="100%" file="Eule_I.jpg" alt="Eule" caption="" %}
+
+{% include figure.html width="100%" file="Eule_II.jpg" alt="Eule" caption="" %}
+
+{% include figure.html width="100%" file="Eule_IV.jpg" alt="Eule" caption="" %}
+
+{% include figure.html width="100%" file="Eule_V.jpg" alt="Eule" caption="" %}

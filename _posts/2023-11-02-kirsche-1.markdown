@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Kirsche 1"
+date:   2023-11-02 14:56:10 +0100
+hero_image: oT_kirsche-hero.jpeg
+categories: 
+holz: "Kirsche/ciliegio/cherry"
+masse: "85 x 22 x 38 cm"
+date_found: "2007"
+location: "Gentilino"
+---
+{% include figure.html width="100%" file="oT_kirsche_I.jpg" alt="Kirsche 1" caption="" %}
+
+{% include figure.html width="100%" file="oT_kirsche_II.jpg" alt="Kirsche 1" caption="" %}
+
+{% include figure.html width="100%" file="oT_kirsche_III.jpg" alt="Kirsche 1" caption="" %}
+
+{% include figure.html width="100%" file="oT_kirsche_IV.jpg" alt="Kirsche 1" caption="" %}

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "o.T. (Buchsbaum)"
+date:   2023-11-02 14:56:10 +0100
+hero_image: oT_buchsbaum-hero.jpeg
+categories: 
+holz: "Buchsbaum/bosso/boxwood"
+masse: "40 x 25 x 20 cm"
+date_found: "2007"
+location: "Vernate"
+---
+{% include figure.html width="100%" file="oT_buchsbaum_I.jpg" alt="oT Buchsbaum" caption="" %}
+
+{% include figure.html width="100%" file="oT_buchsbaum_II.jpg" alt="oT Buchsbaum" caption="" %}

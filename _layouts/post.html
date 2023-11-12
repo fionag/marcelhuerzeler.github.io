@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p>
+     <strong>Holz | Legno | Wood:</strong> {{ page.holz | escape }}<br>
+     <strong>Maße | Misura | Dimensions:</strong> {{ page.masse | escape }}<br>
+     <strong>{{ page.date_found }} Gefunden bei | Trovato vicino a | Found by:</strong> {{ page.location | escape }}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

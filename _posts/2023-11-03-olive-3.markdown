@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Olive 3"
+date:   2023-11-02 14:56:10 +0100
+hero_image: oT_olive_c-hero.jpeg
+categories: 
+holz: "Olive/oliva"
+masse: "53 x 30 x 16 cm"
+date_found: "2007"
+location: "Caslano"
+---
+{% include figure.html width="100%" file="oT_olive_c_I.jpg" alt="Olive 3" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_c_II.jpg" alt="Olive 3" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_c_III.jpg" alt="Olive 3" caption="" %}
+
+{% include figure.html width="100%" file="oT_olive_c_IV.jpg" alt="Olive 3" caption="" %}
+
+

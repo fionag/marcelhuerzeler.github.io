@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Jaga"
+date:   2023-11-02 14:56:10 +0100
+hero_image: jaga-hero-2.jpeg
+categories: 
+holz: "Kirsche/ciliegio/cherry"
+masse: "98 x 70 x 40 cm"
+date_found: "2007"
+location: "Gentilino"
+---
+{% include figure.html width="100%" file="jaga_I.jpg" alt="Jaga" caption="" %}
+
+{% include figure.html width="100%" file="jaga_II.jpg" alt="Jaga" caption="" %}

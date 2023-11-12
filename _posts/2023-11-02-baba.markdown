@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Baba"
+date:   2023-11-02 14:56:10 +0100
+hero_image: baba-hero.jpeg
+categories: 
+holz: "Kirsche/ciliegio/cherry"
+masse: "98 x 70 x 40 cm"
+date_found: "2007"
+location: "Gentilino"
+---
+{% include figure.html width="100%" file="baba_I.jpg" alt="Baba" caption="" %}
+
+{% include figure.html width="100%" file="baba_II.jpg" alt="Baba" caption="" %}
+
+

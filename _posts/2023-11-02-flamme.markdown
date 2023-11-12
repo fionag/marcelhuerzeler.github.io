@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Flamme"
+date:   2023-11-02 14:56:10 +0100
+hero_image: Flamme-hero.jpeg
+categories: 
+holz: "Kastanie/castagno/chestnut"
+masse: "118 x 55 x 36 cm"
+date_found: "2006"
+location: "Pura, Malcantone"
+---
+{% include figure.html width="100%" file="Flamme_I.jpg" alt="Flamme" caption="" %}
+
+{% include figure.html width="100%" file="Flamme_II.jpg" alt="Flamme" caption="" %}
+
+{% include figure.html width="100%" file="Flamme_III.jpg" alt="Flamme" caption="" %}
+
+{% include figure.html width="100%" file="Flamme_IV.jpg" alt="Flamme" caption="" %}
+
+

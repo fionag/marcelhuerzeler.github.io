@@ -1,3 +1,3 @@
-# marcelhuerzeler.github.io
+# marcelhuerzeler
 
 The repository for the website of Marcel Huerzeler.
